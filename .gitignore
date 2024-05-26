@@ -1,0 +1,19 @@
+# Ignore this files 
+
+elasticsearch-7.17.19/
+elasticsearch-7.17.19-darwin-x86_64.tar.gz.sha512
+.ipynb_checkpoints/
+/evaluation
+/ligthining_logs
+
+# RAg original 
+/rag/test_data
+/rag/model_checkpoints
+
+#RAG end2end 
+/rag-end2end-retriever/test_run
+/rag-end2end-retriever/Health-data
+/rag-end2end-retriever/model_checkpints
+/rag-end2end-retriever/model_checkpoints2
+/rag-end2end-retriever/evaluation
+
