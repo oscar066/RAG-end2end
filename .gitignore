@@ -10,10 +10,12 @@ elasticsearch-7.17.19-darwin-x86_64.tar.gz.sha512
 /rag/test_data
 /rag/model_checkpoints
 
+
 #RAG end2end 
 /rag-end2end-retriever/test_run
-/rag-end2end-retriever/Health-data
+/rag-end2end-retriever/Health-data/health-data/my_knowledge_dataset
+/rag-end2end-retriever/Health-data/health-data/my_knowledge_dataset_hnsw_index.faiss
 /rag-end2end-retriever/model_checkpoints
 /rag-end2end-retriever/model_checkpoints2
-/rag-end2end-retriever/evaluation
+# /rag-end2end-retriever/evaluation
 
