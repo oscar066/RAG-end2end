@@ -4,7 +4,9 @@ elasticsearch-7.17.19/
 elasticsearch-7.17.19-darwin-x86_64.tar.gz.sha512
 .ipynb_checkpoints/
 /evaluation
-/ligthining_logs
+
+# lightning library logs 
+/lightning_logs
 
 # RAg original 
 /rag/test_data
